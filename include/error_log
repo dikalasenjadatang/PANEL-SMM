@@ -1,0 +1,3 @@
+
+[23-Sep-2018 07:41:24 Asia/Jakarta] PHP Warning:  mysqli_real_escape_string() expects parameter 2 to be string, array given in /home/ilhpedia/public_html/include/order_service.php on line 5
+[23-Sep-2018 07:41:24 Asia/Jakarta] PHP Warning:  mysqli_real_escape_string() expects parameter 2 to be string, array given in /home/ilhpedia/public_html/include/order_service.php on line 5
